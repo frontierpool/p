@@ -1,18 +1,57 @@
 {
     "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
         "location": "Mexico",
         "social": {
-            "twitter_handle": "poolfrontier",
-            "telegram_handle": "frontierpool",
-            "facebook_handle": "CardanoStakePool",
-
+            "twitter_handle": "PoolFrontier",
+            "telegram_handle": "FrontierPool",
+            "facebook_handle": "FrontierCardanoStakePool",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
             "me": "We are Frontier Pool!",
-            "server": "Coolest server ;)",
+            "server": "The coolest server ever!",
+            "company": ""
         }
     },
     "my-pool-ids": {
-        "0": "ad9a5fae28836eca9e4575588c712e7accd608b1519d72b7a1b058ac",
+        "0": "ad9a5fae28836eca9e4575588c712e7accd608b1519d72b7a1b058ac"
     },
+    "when-satured-then-recommend": {
+        "0": "",
+    },
+    "telegram-admin-handle": {
+        "0": "frontierpool"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
 }
