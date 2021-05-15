@@ -1,60 +1,18 @@
 {
     "info": {
-        //"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-        //"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
         "location": "Mexico",
         "social": {
             "twitter_handle": "poolfrontier",
             "telegram_handle": "frontierpool",
             "facebook_handle": "CardanoStakePool",
-            //"youtube_handle": "",
-            //"twitch_handle": "",
-            //"discord_handle": "",
-            //"github_handle": ""
-        },/*
-        "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
-        },*/
+
+        },
         "about": {
             "me": "We are Frontier Pool!",
             "server": "Coolest server ;)",
-            //"company": "..."
         }
     },
     "my-pool-ids": {
         "0": "ad9a5fae28836eca9e4575588c712e7accd608b1519d72b7a1b058ac",
-        //"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },/*
-    "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },*/
-    //"telegram-admin-handle": {
-    //    "0": "mnmnmnmnnmn"
-    //},
-    /*
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
-    }*/
+    },
 }
