@@ -28,7 +28,7 @@ Cardano forum
 https://forum.cardano.org/
 
 Others
-https://adapools.org/
+https://adapools.org/ /
 https://pooltool.io/
 
 ## Contact
